@@ -1,0 +1,28 @@
+.row{   
+
+    background-color:purple;
+    color:white;
+    font-size:20px;
+    justify-content: space-between;
+    display:flex;
+}
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:white;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+.aboutme{
+    border:1px solid black;   
+}
+
+
+
+
+
